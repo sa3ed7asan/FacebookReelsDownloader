@@ -1,6 +1,6 @@
-# Facebook Video Downloader
+# Facebook Reels Downloader
 
-This Python script allows you to download Facebook videos in SD and HD quality by providing the video URL.
+This Python script allows you to download Facebook Reels in SD and HD quality by providing the video URL.
 
 ## Prerequisites
 
@@ -10,7 +10,7 @@ Make sure you have Python 3 installed on your system.
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your_username/facebook-video-downloader.git
+   git clone https://github.com/sa3ed7asan/FacebookReelsDownloader.git
    ```
 2. Install the required dependencies:
    ```
