@@ -1,4 +1,3 @@
-```markdown
 # Facebook Video Downloader
 
 This Python script allows you to download Facebook videos in SD and HD quality by providing the video URL.
@@ -33,5 +32,3 @@ Make sure you have Python 3 installed on your system.
 
 - **Author**: [@DEV_BEN](https://t.me/DEV_BEN)
 - **Source**: [@BENfiles](https://t.me/BENfiles)
-
-```
