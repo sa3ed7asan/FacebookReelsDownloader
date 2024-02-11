@@ -9,7 +9,7 @@ Make sure you have Python 3 installed on your system.
 ## Installation
 
 1. Clone this repository:
-   ```
+   ```bash
    git clone https://github.com/sa3ed7asan/FacebookReelsDownloader.git
    ```
 2. Install the required dependencies:
@@ -20,7 +20,7 @@ Make sure you have Python 3 installed on your system.
 ## Usage
 
 1. Run the Flask server:
-   ```
+   ```bash
    python3 main.py
    ```
 2. Access the API endpoint:
